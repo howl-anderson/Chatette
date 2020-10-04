@@ -215,5 +215,6 @@ Then, install the module as editable:
 ### Contributors
 - [Vadim Fedorenko](https://github.com/meiblorn)
 - [Valentin Calomme](https://github.com/ValentinCalomme)
+- [Dávid Kizivat](https://github.com/kizivat)
 
 Many thanks to them!
