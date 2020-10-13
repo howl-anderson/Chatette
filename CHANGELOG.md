@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - "rasamd" adapter value missing from console help
 - Slot value missing in JSONL examples
+- Potential error when using rangom generation modifier
 
 ## [1.6.2] - 2019-12-18
 ### Fixed
